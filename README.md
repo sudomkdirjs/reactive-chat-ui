@@ -1,6 +1,6 @@
 # Chat App
 
-## Prerequisite
+## Prerequisites
 
 * Needs Node 8.x.x / yarn v0.27.x or above
 
